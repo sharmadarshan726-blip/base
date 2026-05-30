@@ -22,3 +22,4 @@ uint public value21 = 21;
 uint public value22 = 22;
 uint public value23 = 23;
 uint public value24 = 24;
+uint public value25 = 25;
