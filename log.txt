@@ -98,3 +98,4 @@ uint public value96 = 97;
 uint public value96 = 98;
 uint public value96 = 99;
 uint public value96 = 100;
+uint public value96 = 101;
