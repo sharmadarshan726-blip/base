@@ -5,3 +5,4 @@ uint public value4 = 4;
 uint public value5 = 5;
 uint public value6 = 6;
 uint public value7 = 7;
+uint public value8 = 8;
