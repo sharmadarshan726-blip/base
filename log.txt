@@ -45,3 +45,4 @@ uint public value44 = 44;
 uint public value45 = 45;
 uint public value46 = 46;
 uint public value47 = 47;
+uint public value48 = 48;
