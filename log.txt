@@ -31,3 +31,4 @@ uint public value30 = 30;
 uint public value31 = 31;
 uint public value32 = 32;
 uint public value33 = 33;
+uint public value34 = 34;
