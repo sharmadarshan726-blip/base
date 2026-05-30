@@ -17,3 +17,4 @@ uint public value16 = 16;
 uint public value17 = 17;
 uint public value18 = 18;
 uint public value19 = 19;
+uint public value20 = 20;
