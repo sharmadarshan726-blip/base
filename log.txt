@@ -61,3 +61,4 @@ uint public value60 = 60;
 uint public value61 = 61;
 uint public value62 = 62;
 uint public value63 = 63;
+uint public value64 = 64;
