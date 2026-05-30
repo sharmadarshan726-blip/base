@@ -13,3 +13,4 @@ uint public value12 = 12;
 uint public value13 = 13;
 uint public value14 = 14;
 uint public value15 = 15;
+uint public value16 = 16;
