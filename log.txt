@@ -37,3 +37,4 @@ uint public value36 = 36;
 uint public value37 = 37;
 uint public value38 = 38;
 uint public value39 = 39;
+uint public value40 = 40;
