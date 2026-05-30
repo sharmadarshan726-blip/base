@@ -27,3 +27,4 @@ uint public value26 = 26;
 uint public value27 = 27;
 uint public value28 = 28;
 uint public value29 = 29;
+uint public value30 = 30;
